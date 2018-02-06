@@ -20,6 +20,7 @@ Use:
 						<!-- content etc -->
 						</content>
 					</IconTabFilter>
+				</bd:items>
 			</bd:IconTabFilter>
 		</content>
 	</Page>
