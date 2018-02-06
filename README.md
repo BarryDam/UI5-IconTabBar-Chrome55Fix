@@ -5,17 +5,13 @@ The newly introduced PointerEvents and touchevents aren't fired correctly
 
 Use:
 ```xml
-<mvc:View 
-	controllerName		= "nl.barrydam.Example"
-	xmlns				= "sap.m"
-	xmlns:bd			= "nl.barrydam.m"
+<mvc:View controllerName="nl.barrydam.Example" xmlns="sap.m" xmlns:bd="nl.barrydam.m"
 	>
 	<Page>
 		<content>
 			<bd:IconTabFilter>
 				<bd:items>
-					<!-- start OK -->
-					<IconTabFilter text = "test">
+					<IconTabFilter text="test">
 						<content>
 						<!-- content etc -->
 						</content>
